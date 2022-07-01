@@ -1,0 +1,18 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center; 
+    text-decoration: underline;
+    text-shadow: 0px 1px 5px rgb(1, 78, 1), 0px 2px 5px rgb(134, 235, 210);
+}
+p{
+    text-align: right; 
+    text-decoration: underline rgb(16, 188, 194);
+    color: rgb(0, 0, 0);
+}
+video{
+    padding-left: 65%;
+}
